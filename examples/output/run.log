@@ -1,0 +1,27 @@
+02:12:54 INFO    Found 3 workbook(s). Months: August, September, October, November, December
+02:12:54 INFO    Tax types start at header 'IT' and end before 'GRAND TOTAL'.
+02:12:54 INFO    Processing DISTRICT_EAST_MONTHLY_COLLECTIONS_2025.xlsx
+02:12:55 INFO      August     rows: 217
+02:12:55 INFO      September  rows: 226
+02:12:55 INFO      October    rows: 222
+02:12:55 INFO      November   rows: 219
+02:12:55 INFO      December   rows: 217
+02:12:55 INFO      Combined taxpayers: 250 | Period total: 50,230,136.70 | 0.43s
+02:12:55 INFO      Saved: examples/output/DISTRICT_EAST_MONTHLY_COLLECTIONS_2025_AUG_TO_DEC_PROCESSED.xlsx
+02:12:55 INFO    Processing DISTRICT_NORTH_MONTHLY_COLLECTIONS_2025.xlsx
+02:12:55 INFO      August     rows: 220
+02:12:55 INFO      September  rows: 220
+02:12:55 INFO      October    rows: 215
+02:12:55 INFO      November   rows: 224
+02:12:55 INFO      December   rows: 205
+02:12:55 INFO      Combined taxpayers: 250 | Period total: 62,052,644.46 | 0.42s
+02:12:55 INFO      Saved: examples/output/DISTRICT_NORTH_MONTHLY_COLLECTIONS_2025_AUG_TO_DEC_PROCESSED.xlsx
+02:12:55 INFO    Processing DISTRICT_SOUTH_MONTHLY_COLLECTIONS_2025.xlsx
+02:12:56 INFO      August     rows: 219
+02:12:56 INFO      September  rows: 213
+02:12:56 INFO      October    rows: 217
+02:12:56 INFO      November   rows: 226
+02:12:56 INFO      December   rows: 216
+02:12:56 INFO      Combined taxpayers: 250 | Period total: 66,472,451.21 | 0.47s
+02:12:56 INFO      Saved: examples/output/DISTRICT_SOUTH_MONTHLY_COLLECTIONS_2025_AUG_TO_DEC_PROCESSED.xlsx
+02:12:56 INFO    Finished: 3 succeeded, 0 failed, 3,276 monthly rows in 1.31s.
