@@ -9,6 +9,15 @@ sheets, a per-taxpayer summary, and verified totals.
 > names, file names and paths are neutral and configurable. It contains no real records
 > and no organisation-specific code.
 
+## Demo video
+
+▶ **[Watch the demo (about 2 minutes, Google Drive)](https://drive.google.com/file/d/1KpLcaG44uM7LUCwQLCs-cWSSDiJ_77Sn/view?usp=sharing)**
+
+The video covers the manual problem, a run of the tool and the reports it generates. Every
+dataset shown is fictional, and the automation is started by hand with a single command;
+it does not run on a schedule. Spreadsheet and terminal views are labelled reconstructions
+that use values from the actual files and captured output. The narration is AI-generated.
+
 ## The manual process it replaces
 
 Every month, each district workbook (12 month sheets) has to be turned into an
